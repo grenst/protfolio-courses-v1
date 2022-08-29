@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  font-family: "Poppins", sans-serif;
+}
+
+h3 {
+  font-family: "Qwitcher Grypen", cursive;
+}
+
+.container {
+  margin-top: calc(100vh / 2 - 90px);
+}
